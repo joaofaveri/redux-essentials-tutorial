@@ -1,0 +1,10 @@
+*.css
+*.svg
+*.scss
+*.json
+
+node_modules
+.vscode
+coverage
+public
+dist
