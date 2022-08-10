@@ -9,9 +9,7 @@
   <a href="https://github.com/joaofaveri/redux-essentials-tutorial">
     <img src="images/redux.png" alt="Redux Essentials Tutorial" height="300">
   </a>
-
   <h1 align="center">Redux Essentials Tutorial</h1>
-  <h2><i>Redux Official Tutorials</i></h2>
 </div>
 
 The [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) tutorial is a "top-down" tutorial that teaches "how to use Redux the right way", using our latest recommended APIs and best practices. This tutorial will introduce you to Redux and teach you how to use it the right way, using our latest recommended tools and best practices. By the time you finish, you should be able to start building your own Redux applications using the tools and patterns you've learned here.
